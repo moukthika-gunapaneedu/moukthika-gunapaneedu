@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Moukthika!
 
-<!--
-**moukthika-gunapaneedu/moukthika-gunapaneedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate student in Data Science  
+🔍 Actively seeking internships and full-time roles in ML, AI, or Data Science  
+📍 Based in Boulder, CO
 
-Here are some ideas to get you started:
+## 💼 Experience
+- Metadata & Programming Assistant @ CU Boulder Libraries  
+- Data Science Intern @ Solar Secure Solutions
+- Data Management Intern @ Studio Zenoya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- 🧠 AI-powered Research Podcast Summarizer  
+- 🌊 Tsunami Marigram Metadata Extractor  
+- 📈 Bank Marketing Campaign Analyzer
+
+## 💻 Skills
+`Python` `SQL` `R` `Pandas` `Scikit-learn` `TensorFlow` `NLP` `Big Data`  
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/moukthika-gunapaneedu/)
+- [Portfolio Website](https://yourwebsite.com)
