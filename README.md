@@ -1,8 +1,8 @@
 # Hey, I'm Moukthika!
 
-Graduate student in Data Science  
-Actively seeking internships and full-time roles in ML, AI, or Data Science  
-Based in Boulder, CO
+- Graduate student in Data Science  
+- Actively seeking internships and full-time roles in ML, AI, or Data Science  
+- Based in Boulder, CO
 
 ## Experience
 - Data Engineering - Metadata @ CU Boulder Libraries  
