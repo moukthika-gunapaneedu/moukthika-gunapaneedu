@@ -5,7 +5,7 @@
 - Based in Boulder, CO
 
 ## Experience
-- Data Engineer - Metadata @ CU Boulder Libraries  
+- Data Scientist @ CU Boulder Libraries  
 - Data Scientist @ Solar Secure Solutions
 - Database Intern @ Studio Zenoya
 
