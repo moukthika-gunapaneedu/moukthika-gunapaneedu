@@ -1,7 +1,7 @@
 # Hey, I'm Moukthika!
 
 - Data Scientist
-- Graduate student in Data Science  
+- Graduate student in Data Science at CU Boulder
 - Looking for full-time roles in ML, AI, or Data Science  
 - Based in Boulder, CO
 
