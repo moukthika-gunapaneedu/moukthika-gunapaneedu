@@ -11,9 +11,9 @@
 - Database Intern @ Studio Zenoya
 
 ## Recent Projects
-- [EcoSort:  Image-based waste-sorting system using CNN](https://moukthika-gunapaneedu.github.io/EcoSort/)
-- [ResearchPod: AI-powered Research Podcast Summarizer](https://github.com/richardr1126/research-pod-api)  
-- [WaveSource: Tsunami Marigram Metadata Extractor](https://github.com/moukthika-gunapaneedu/Tsunami-Marigram-Metadata-Extractor)
+- EcoSort:  Image-based waste-sorting system using CNN
+- ResearchPod: AI-powered Research Podcast Summarizer
+- WaveSource: Tsunami Marigram Metadata Extractor
 
 ## Skills
 `Python` `SQL` `R` `Pandas` `Scikit-learn` `TensorFlow` `NLP` `Big Data`  
