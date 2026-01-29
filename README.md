@@ -1,12 +1,11 @@
 # Hey, I'm Moukthika!
 
 - Data Scientist
-- Graduate student in Data Science at CU Boulder
 - Looking for new grad full-time roles in ML, AI, and Data Science  
-- Based in CO (Open to relocate)
+- Based in Denver, CO (Open to relocate)
 
 ## Experience
-- Data Science Intern @ Parsyl
+- Data Scientist @ Parsyl
 - Data Engineer @ CU Boulder Libraries  
 - Database Intern @ Studio Zenoya
 
