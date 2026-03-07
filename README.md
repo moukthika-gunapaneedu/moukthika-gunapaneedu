@@ -1,9 +1,8 @@
 # Hey, I'm Moukthika!
 
-- Data Scientist @ Parsyl
-- Looking for new grad full-time roles in ML, AI, and Data Science  
+- Data Scientist @ Parsyl  
 - Based in Denver, CO (Open to relocate)
-
+  
 ## Previous Experience
 - Data Scientist Intern @ Parsyl
 - Data Engineer @ CU Boulder Libraries  
