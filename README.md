@@ -9,6 +9,7 @@
 - Database Intern @ Studio Zenoya
 
 ## Recent Projects
+- BoxBox: ML-powered F1 race prediction platform for the 2026 season
 - EcoSort:  Image-based waste-sorting system using CNN
 - ResearchPod: AI-powered Research Podcast Summarizer
 - WaveSource: Tsunami Marigram Metadata Extractor
