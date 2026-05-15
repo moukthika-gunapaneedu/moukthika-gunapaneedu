@@ -1,11 +1,11 @@
 # Hey, I'm Moukthika!
 
 - Data Scientist @ Parsyl  
-- Based in Denver, CO (Open to relocate)
+- Based in Boulder, CO (Open to relocate)
   
 ## Previous Experience
-- Data Scientist Intern @ Parsyl
-- Data Engineer @ CU Boulder Libraries  
+- Data Science Intern @ Parsyl
+- Data Engineer @ NOAA (National Oceanic and Atmospheric Administration / CU Boulder Libraries
 - Database Intern @ Studio Zenoya
 
 ## Recent Projects
@@ -15,7 +15,7 @@
 - WaveSource: Tsunami Marigram Metadata Extractor
 
 ## Skills
-`Python` `SQL` `R` `Pandas` `Scikit-learn` `TensorFlow` `NLP` `Big Data`  
+`Python` `SQL` `R` `Cloud Infrastructure` `Statistical Modeling` `Data Visualtization` `NLP` `Big Data` `Machine Learning` 
 
 ## Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/moukthika-gunapaneedu/)
