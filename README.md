@@ -1,12 +1,12 @@
 # Hey, I'm Moukthika!
 
 - Data Scientist @ Parsyl  
-- Based in Boulder, CO (Open to relocate)
+- Based in Denver, CO (Open to relocate)
   
 ## Previous Experience
-- Data Science Intern @ Parsyl
 - Data Engineer @ NOAA (National Oceanic and Atmospheric Administration / CU Boulder Libraries
 - Database Intern @ Studio Zenoya
+- Project Intern @ International Centre for Clean Water (ICCW), IIT-Madras Research Park
 
 ## Recent Projects
 - BoxBox: ML-powered F1 race prediction platform for the 2026 season
